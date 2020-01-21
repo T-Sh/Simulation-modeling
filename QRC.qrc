@@ -1,0 +1,12 @@
+<!DOCTYPE RCC><RCC version="1.0">
+ <qresource>
+     <file>images/arrow_right_next_forward_icon.png</file>
+     <file>images/coin_money_finance_payment_icon.png</file>
+     <file>images/rocket_startup_monitor_screen_computer_icon.png</file>
+     <file>images/timer_stopwatch_setting_options_preferences_icon.png</file>
+     <file>images/trash_garbage_can_bin_ecology_icon.png</file>
+     <file>images/arrow_down_downwards_download_icon.png</file>
+     <file>images/oie.png</file>
+     <file>images/alert_danger_warning_notification_icon.png</file>
+ </qresource>
+ </RCC>
